@@ -1,7 +1,30 @@
 ---
-title: "taiastorrs"
+title: ""
+page-layout: full
 ---
 
-This is a Quarto website.
+::: {.column-page}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::: {.columns}
+
+::: {.column width="40%"}
+![](taia.jpg){width=80% fig-align="center" style="border-radius: 50%;"}
+:::
+
+::: {.column width="60%"}
+# Taia Storrs
+
+### Water Resources | Sustainability | GIS
+
+Graduate student passionate about sustainable water solutions for the Western 
+United States.
+
+[About Me](about.qmd){.btn .btn-primary .btn-lg}
+[Projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
+[Gallery](gallery.qmd){.btn .btn-outline-primary .btn-lg}
+
+:::
+
+::::
+
+:::

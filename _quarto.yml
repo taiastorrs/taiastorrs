@@ -3,15 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "taiastorrs"
+  title: "Taia Storrs"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects and Experience
+      - href: gallery.qmd
+        text: Gallery  
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+ 

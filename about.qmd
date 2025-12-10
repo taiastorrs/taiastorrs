@@ -1,5 +1,66 @@
 ---
-title: "About"
+title: "Taia Storrs"
+image: grad.JPG
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/taiastorrs
+    - text: GitHub
+      icon: github
+      href: https://github.com/taiastorrs
+    - text: Email
+      icon: envelope
+      href: mailto:taiastorrs@gmail.com 
 ---
+## About Me
 
-About this site
+I recently graduated from Colorado State University with 
+a Bachelor of Science in Ecosystem Science and 
+Sustainability, completing my degree in three years with 
+a minor in Watershed Science. This fall, I began pursuing 
+a Professional Science Master's in Water Resources 
+through CSU's Accelerated Master's Program in ESS.
+
+My academic and professional interests center on 
+sustainable water solutions for addressing water scarcity 
+in the Western United States. Through my coursework and 
+field experience, I've developed a strong passion for 
+water resource management and environmental 
+sustainability. I'm excited to continue building the 
+technical, interdisciplinary, and collaborative skills 
+needed to contribute to resilient water systems in the 
+face of climate change.
+
+I am dedicated to creating sustainable improvements in 
+the water sector, with the aim of contributing my 
+expertise to sustainable water management within urban 
+settings.
+
+## Skills & Proficiencies
+
+- **Technical Tools:** ArcGIS, R, Microsoft Office Suite
+- **Data Analysis:** Field data collection, dataset 
+cleaning, and statistical analysis in R and Excel
+- **Communication:** Stakeholder communication and 
+report delivery
+
+## Education
+
+**Colorado State University**
+
+*Professional Science Master's in Ecosystem Science and 
+Sustainability*  
+Concentration in Water Resources | Expected Spring 2026
+
+*Bachelor of Science in Ecosystem Science and 
+Sustainability*  
+Minor in Watershed Science | Spring 2025  
+GPA: 3.5 | Dean's List
+
+[Download my resume (PDF)](resume.pdf){.btn .btn-primary}
+
+

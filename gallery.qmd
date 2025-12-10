@@ -1,0 +1,24 @@
+---
+title: "Gallery"
+---
+
+![Longs Peak Hydrography and Road Networks](longs.jpg)
+
+GIS analysis integrating hydrology and transportation datasets.
+
+![Burned Area](trees.JPG)
+
+Assessed and collected data from a burned area at CSU's Mountain Campus
+
+![Roberts Tunnel Outlet](water.JPG)
+
+Assessed Roberts Tunnel Outlet
+
+![Streamflow](field.JPG)
+
+Collected watershed data and measurements using a headrod  at the Mountain 
+Campus
+
+---
+
+*More photos and projects coming soon!*

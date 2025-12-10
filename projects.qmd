@@ -1,0 +1,67 @@
+---
+title: "Projects"
+---
+
+## Sustainability and Water Science Projects
+
+### Center for Participatory Science Development
+**Colorado State University | Spring 2025**
+
+Collaborated with stakeholder CitSci to design systems 
+for CSU's upcoming Center for Participatory Science:
+
+- Wrote a background paper highlighting barriers and 
+strategies for inclusive research
+- Built a participant database using Airtable and Fillout
+- Implemented communication systems via Teams, 
+Outlook/Gmail, and Calendly
+
+### Statistical Comparison of Sea Ice and Global Sea Level
+**Spring 2024**
+
+Conducted statistical analyses in RStudio to quantify 
+correlations between sea ice extent and global sea level 
+rise:
+
+- Merged and cleaned satellite-derived datasets
+- Ran correlation tests (Pearson's r = -0.48) and 
+visualized spatial/temporal trends
+- Presented findings demonstrating a significant negative 
+correlation between polar ice melt and global sea level 
+rise
+
+### Longs Peak Hydrography and Road Map
+**Fall 2023**
+
+- Applied ArcGIS to integrate hydrology and transportation datasets
+- Created a map of Longs Peak's hydrography and road 
+networks to demonstrate spatial data visualization skills
+
+---
+
+## Field Experience
+
+### Natural Resource Ecology & Measurement
+**Colorado State University – Mountain Campus | Summer 
+2024**
+
+- Identified 120 different plant and animal species of 
+Northern Colorado Region
+- Assessed mountain  shrub, ponderosa pine/aspen, lodgepole pine, 
+spruce-fir, and alpine ecosystems
+- Collected recreation, watershed, range, wildlife, and forestry data using 
+quadrants, line-intercepts, transects, and point-centered quarters
+- Generated written reports for each ecosystem assessed
+
+### Limnology Field Work
+**Colorado State University | Fall 2024**
+
+- Collected depth profiles: temperature, DO content, pH, water chemistry, 
+and algae/zooplankton sampling
+- Utilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling
+
+### Snow Hydrology Field Work
+**Colorado State University | Fall 2024**
+
+- Collected snowpack data at Cameron Pass via core samples
+- Analyzed Joe Wright SNOTEL station data

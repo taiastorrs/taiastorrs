@@ -1,16 +1,100 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "taiastorrs",
+    "title": "Taia Storrs",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Water Resources | Sustainability | GIS\nGraduate student passionate about sustainable water solutions for the Western United States.\nAbout Me Projects Gallery"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Taia Storrs",
+    "section": "",
+    "text": "I recently graduated from Colorado State University with a Bachelor of Science in Ecosystem Science and Sustainability, completing my degree in three years with a minor in Watershed Science. This fall, I began pursuing a Professional Science Master’s in Water Resources through CSU’s Accelerated Master’s Program in ESS.\nMy academic and professional interests center on sustainable water solutions for addressing water scarcity in the Western United States. Through my coursework and field experience, I’ve developed a strong passion for water resource management and environmental sustainability. I’m excited to continue building the technical, interdisciplinary, and collaborative skills needed to contribute to resilient water systems in the face of climate change.\nI am dedicated to creating sustainable improvements in the water sector, with the aim of contributing my expertise to sustainable water management within urban settings."
+  },
+  {
+    "objectID": "index.html#skills-proficiencies",
+    "href": "index.html#skills-proficiencies",
+    "title": "Taia Storrs",
+    "section": "Skills & Proficiencies",
+    "text": "Skills & Proficiencies\n\nTechnical Tools: ArcGIS, R, Microsoft Office Suite\nData Analysis: Field data collection, dataset cleaning, and statistical analysis in R and Excel\nCommunication: Stakeholder communication and report delivery"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Taia Storrs",
+    "section": "Education",
+    "text": "Education\nColorado State University\nProfessional Science Master’s in Ecosystem Science and Sustainability\nConcentration in Water Resources | Expected Spring 2026\nBachelor of Science in Ecosystem Science and Sustainability\nMinor in Watershed Science | Spring 2025\nGPA: 3.5 | Dean’s List\nDownload my resume (PDF)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Colorado State University | Spring 2025\nCollaborated with stakeholder CitSci to design systems for CSU’s upcoming Center for Participatory Science:\n\nWrote a background paper highlighting barriers and strategies for inclusive research\nBuilt a participant database using Airtable and Fillout\nImplemented communication systems via Teams, Outlook/Gmail, and Calendly\n\n\n\n\nSpring 2024\nConducted statistical analyses in RStudio to quantify correlations between sea ice extent and global sea level rise:\n\nMerged and cleaned satellite-derived datasets\nRan correlation tests (Pearson’s r = -0.48) and visualized spatial/temporal trends\nPresented findings demonstrating a significant negative correlation between polar ice melt and global sea level rise\n\n\n\n\nFall 2023\n\nApplied ArcGIS to integrate hydrology and transportation datasets\nCreated a map of Longs Peak’s hydrography and road networks to demonstrate spatial data visualization skills"
+  },
+  {
+    "objectID": "projects.html#sustainability-and-water-science-projects",
+    "href": "projects.html#sustainability-and-water-science-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Colorado State University | Spring 2025\nCollaborated with stakeholder CitSci to design systems for CSU’s upcoming Center for Participatory Science:\n\nWrote a background paper highlighting barriers and strategies for inclusive research\nBuilt a participant database using Airtable and Fillout\nImplemented communication systems via Teams, Outlook/Gmail, and Calendly\n\n\n\n\nSpring 2024\nConducted statistical analyses in RStudio to quantify correlations between sea ice extent and global sea level rise:\n\nMerged and cleaned satellite-derived datasets\nRan correlation tests (Pearson’s r = -0.48) and visualized spatial/temporal trends\nPresented findings demonstrating a significant negative correlation between polar ice melt and global sea level rise\n\n\n\n\nFall 2023\n\nApplied ArcGIS to integrate hydrology and transportation datasets\nCreated a map of Longs Peak’s hydrography and road networks to demonstrate spatial data visualization skills"
+  },
+  {
+    "objectID": "projects.html#field-experience",
+    "href": "projects.html#field-experience",
+    "title": "Projects",
+    "section": "Field Experience",
+    "text": "Field Experience\n\nNatural Resource Ecology & Measurement\nColorado State University – Mountain Campus | Summer 2024\n\nIdentified 120 different plant and animal species of Northern Colorado Region\nAssessed mountain shrub, ponderosa pine/aspen, lodgepole pine, spruce-fir, and alpine ecosystems\nCollected recreation, watershed, range, wildlife, and forestry data using quadrants, line-intercepts, transects, and point-centered quarters\nGenerated written reports for each ecosystem assessed\n\n\n\nLimnology Field Work\nColorado State University | Fall 2024\n\nCollected depth profiles: temperature, DO content, pH, water chemistry, and algae/zooplankton sampling\nUtilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling\n\n\n\nSnow Hydrology Field Work\nColorado State University | Fall 2024\n\nCollected snowpack data at Cameron Pass via core samples\nAnalyzed Joe Wright SNOTEL station data"
+  },
+  {
+    "objectID": "projects.html#section",
+    "href": "projects.html#section",
+    "title": "Projects",
+    "section": "",
+    "text": "Limnology Field Work\nColorado State University | Fall 2024\n\nCollected depth profiles: temperature, DO content, pH, water chemistry, and algae/zooplankton sampling\nUtilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling\n\n\n\nSnow Hydrology Field Work\nColorado State University | Fall 2024\n\nCollected snowpack data at Cameron Pass via core samples\nAnalyzed Joe Wright SNOTEL station data"
+  },
+  {
+    "objectID": "projects.html#technical-coursework",
+    "href": "projects.html#technical-coursework",
+    "title": "Projects",
+    "section": "Technical Coursework",
+    "text": "Technical Coursework\n\nR Programming & Geospatial Analysis\nIntroduction to R Programming (Summer 2024) - Organized, cleaned, and analyzed datasets - Generated reproducible visualizations and statistical summaries\nIntroduction to Geospatial Science (Fall 2023) - Managed and interpreted spatial datasets using ArcGIS - Applied spatial analysis to environmental challenges\n\n\nHydrology & Water Resources\nLand Use Hydrology (Fall 2024) - Modeled streamflow, soil moisture, evapotranspiration, and other hydrologic processes - Addressed water resource challenges\nLand Use and Water Quality (Spring 2025) - Investigated impacts of land management practices on surface/groundwater quality\nWater Resource Development (Spring 2025) - Evaluated water infrastructure planning approaches - Assessed economic, environmental, and social trade-offs\nWater Law for Non-Lawyers (Fall 2024) - Studied Western water law doctrines (prior appropriation and riparian rights) - Analyzed water allocation case studies"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Longs Peak Hydrography and Road Networks\n\n\nGIS analysis integrating hydrology and transportation datasets.\n\n\n\nBurned Area\n\n\nAssessed and collected data from a burned area at CSU’s Mountain Campus\n\n\n\nRoberts Tunnel Outlet\n\n\nAssessed Roberts Tunnel Outlet\n\n\n\nStreamflow\n\n\nCollected watershed data and measurements using a headrod at the Mountain Campus\n\nMore photos and projects coming soon!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Taia Storrs",
+    "section": "",
+    "text": "I recently graduated from Colorado State University with a Bachelor of Science in Ecosystem Science and Sustainability, completing my degree in three years with a minor in Watershed Science. This fall, I began pursuing a Professional Science Master’s in Water Resources through CSU’s Accelerated Master’s Program in ESS.\nMy academic and professional interests center on sustainable water solutions for addressing water scarcity in the Western United States. Through my coursework and field experience, I’ve developed a strong passion for water resource management and environmental sustainability. I’m excited to continue building the technical, interdisciplinary, and collaborative skills needed to contribute to resilient water systems in the face of climate change.\nI am dedicated to creating sustainable improvements in the water sector, with the aim of contributing my expertise to sustainable water management within urban settings."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Taia Storrs",
+    "section": "",
+    "text": "I recently graduated from Colorado State University with a Bachelor of Science in Ecosystem Science and Sustainability, completing my degree in three years with a minor in Watershed Science. This fall, I began pursuing a Professional Science Master’s in Water Resources through CSU’s Accelerated Master’s Program in ESS.\nMy academic and professional interests center on sustainable water solutions for addressing water scarcity in the Western United States. Through my coursework and field experience, I’ve developed a strong passion for water resource management and environmental sustainability. I’m excited to continue building the technical, interdisciplinary, and collaborative skills needed to contribute to resilient water systems in the face of climate change.\nI am dedicated to creating sustainable improvements in the water sector, with the aim of contributing my expertise to sustainable water management within urban settings."
+  },
+  {
+    "objectID": "about.html#skills-proficiencies",
+    "href": "about.html#skills-proficiencies",
+    "title": "Taia Storrs",
+    "section": "Skills & Proficiencies",
+    "text": "Skills & Proficiencies\n\nTechnical Tools: ArcGIS, R, Microsoft Office Suite\nData Analysis: Field data collection, dataset cleaning, and statistical analysis in R and Excel\nCommunication: Stakeholder communication and report delivery"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Taia Storrs",
+    "section": "Education",
+    "text": "Education\nColorado State University\nProfessional Science Master’s in Ecosystem Science and Sustainability\nConcentration in Water Resources | Expected Spring 2026\nBachelor of Science in Ecosystem Science and Sustainability\nMinor in Watershed Science | Spring 2025\nGPA: 3.5 | Dean’s List\nDownload my resume (PDF)"
   }
 ]
