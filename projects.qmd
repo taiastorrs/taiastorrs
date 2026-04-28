@@ -48,4 +48,6 @@ rise
 - Created a map of Longs Peak's hydrography and road 
 networks to demonstrate spatial data visualization skills
 
+![Longs Peak Hydrography and Road Networks](longs.jpg)
+
 

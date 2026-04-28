@@ -2,10 +2,6 @@
 title: "Gallery"
 ---
 
-![Longs Peak Hydrography and Road Networks](longs.jpg)
-
-GIS analysis integrating hydrology and transportation datasets.
-
 ![Burned Area](trees.JPG)
 
 Assessing and collecting data from a burned area at CSU's Mountain Campus
