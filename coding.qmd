@@ -1,0 +1,35 @@
+---
+title: "Coding and Data Science"
+---
+
+## Data Science and Programming
+
+This page highlights coding and data analysis projects completed through my coursework in water resources, environmental science, and data science. Most of these projects were completed using **R**, with an emphasis on environmental datasets and water resource analysis.
+
+---
+
+## Water Resources Data Science
+
+Assignments and analyses completed for WR Data Science, Spring 2026.
+
+### Assignment 1 – [Streamflow Across the Colorado River Basin]
+[View Assignment](https://taiastorrs.github.io/csu-523c/lab-01.html){.btn .btn-outline-primary target="_blank"}
+
+### Assignment 2 – [Measuring Distance to National Borders]
+[View Assignment](https://taiastorrs.github.io/csu-523c/lab-02.html){.btn .btn-outline-primary target="_blank"}
+
+### Assignment 3 – [MAUP in Practice]
+[View Assignment](https://taiastorrs.github.io/csu-523c/lab-03.html){.btn .btn-outline-primary target="_blank"}
+
+### Assignment 4 – [Palo Iowa Flood Analysis]
+[View Assignment](https://taiastorrs.github.io/csu-523c/lab-04.html){.btn .btn-outline-primary target="_blank"}
+
+---
+
+## Coding Skills
+
+- **Programming Languages:** R
+- **Data Analysis:** tidyverse, statistical modeling
+- **Data Visualization:** ggplot2
+- **Reproducible Research:** Quarto
+- **Geospatial Analysis:** ArcGIS
