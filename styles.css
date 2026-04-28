@@ -3,3 +3,23 @@
 .navbar {
   background-color: #A9B689 !important;
 }
+.btn-primary {
+  background-color: #A9B689 !important;
+  border-color: #A9B689 !important;
+}
+
+.btn-outline-primary {
+  color: #A9B689 !important;
+  border-color: #A9B689 !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #A9B689 !important;
+  color: white !important;
+}
+h1, h2 {
+  color: #6b7c52;
+}
+a {
+  color: #A9B689 !important;
+}
