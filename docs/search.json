@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "coding.html",
-    "href": "coding.html",
-    "title": "Coding and Data Science",
-    "section": "",
-    "text": "This page highlights coding and data analysis projects completed through my coursework in water resources, environmental science, and data science. Most of these projects were completed using R, with an emphasis on environmental datasets and water resource analysis."
-  },
-  {
-    "objectID": "coding.html#data-science-and-programming",
-    "href": "coding.html#data-science-and-programming",
-    "title": "Coding and Data Science",
-    "section": "",
-    "text": "This page highlights coding and data analysis projects completed through my coursework in water resources, environmental science, and data science. Most of these projects were completed using R, with an emphasis on environmental datasets and water resource analysis."
-  },
-  {
     "objectID": "coding.html#water-resources-data-science",
     "href": "coding.html#water-resources-data-science",
     "title": "Coding and Data Science",
     "section": "Water Resources Data Science",
-    "text": "Water Resources Data Science\nAssignments and analyses completed for WR Data Science, Spring 2026.\n\nAssignment 1 – Streamflow Across the Colorado River Basin\nView Assignment\n\n\nAssignment 2 – Measuring Distance to National Borders\nView Assignment\n\n\nAssignment 3 – MAUP in Practice\nView Assignment\n\n\nAssignment 4 – Palo Iowa Flood Analysis\nView Assignment"
+    "text": "Water Resources Data Science\nAssignments and analyses completed for ESS 523c, Spring 2026.\n\nStreamflow Across the Colorado River Basin\nView Assignment\n\n\nMeasuring Distance to National Borders\nView Assignment\n\n\nMAUP in Practice\nView Assignment\n\n\nPalo Iowa Flood Analysis\nView Assignment"
   },
   {
     "objectID": "coding.html#coding-skills",
@@ -28,11 +14,25 @@
     "text": "Coding Skills\n\nProgramming Languages: R\nData Analysis: tidyverse, statistical modeling\nData Visualization: ggplot2\nReproducible Research: Quarto\nGeospatial Analysis: ArcGIS"
   },
   {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Gallery",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "Longs Peak Hydrography and Road Networks\n\n\nGIS analysis integrating hydrology and transportation datasets.\n\n\n\nBurned Area\n\n\nAssessing and collecting data from a burned area at CSU’s Mountain Campus\n\n\n\nRoberts Tunnel Outlet\n\n\nAssessing Roberts Tunnel Outlet\n\n\n\nStreamflow\n\n\nCollecting watershed data and measurements using a headrod at the Mountain Campus\n\n\n\nData Collection\n\n\nCollecting stream data in the Lower Elkhorn River\n\n\n\nMeasurements\n\n\nUsing a FlowTracker to measure velocity at an upstream site in the Lower Elkhorn River\n\nMore photos and projects coming soon!"
+    "text": "Colorado State University – Lower Elkhorn Creek | Spring 2026\n\nMeasured surface and groundwater levels to assess hydrological impacts of LTPBR structure installation\nCollected streamflow discharge data before and after LTPBR installation using a flowtracker\nMeasured stream depth at 10-meter intervals along the reach between upstream and downstream sensors to quantify sediment depth and deposition\n\n\n\n\nColorado State University – Mountain Campus | Summer 2024\n\nIdentified 120 different plant and animal species of Northern Colorado Region\nAssessed mountain shrub, ponderosa pine/aspen, lodgepole pine, spruce-fir, and alpine ecosystems\nCollected recreation, watershed, range, wildlife, and forestry data using quadrants, line-intercepts, transects, and point-centered quarters\nGenerated written reports for each ecosystem assessed\n\n\n\n\nColorado State University | Fall 2024\n\nCollected depth profiles: temperature, DO content, pH, water chemistry, and algae/zooplankton sampling\nUtilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling\n\n\n\n\nColorado State University | Fall 2024\n\nCollected snowpack data at Cameron Pass via core samples\nAnalyzed Joe Wright SNOTEL station data"
+  },
+  {
+    "objectID": "experience.html#field-experience",
+    "href": "experience.html#field-experience",
+    "title": "Experience",
+    "section": "",
+    "text": "Colorado State University – Lower Elkhorn Creek | Spring 2026\n\nMeasured surface and groundwater levels to assess hydrological impacts of LTPBR structure installation\nCollected streamflow discharge data before and after LTPBR installation using a flowtracker\nMeasured stream depth at 10-meter intervals along the reach between upstream and downstream sensors to quantify sediment depth and deposition\n\n\n\n\nColorado State University – Mountain Campus | Summer 2024\n\nIdentified 120 different plant and animal species of Northern Colorado Region\nAssessed mountain shrub, ponderosa pine/aspen, lodgepole pine, spruce-fir, and alpine ecosystems\nCollected recreation, watershed, range, wildlife, and forestry data using quadrants, line-intercepts, transects, and point-centered quarters\nGenerated written reports for each ecosystem assessed\n\n\n\n\nColorado State University | Fall 2024\n\nCollected depth profiles: temperature, DO content, pH, water chemistry, and algae/zooplankton sampling\nUtilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling\n\n\n\n\nColorado State University | Fall 2024\n\nCollected snowpack data at Cameron Pass via core samples\nAnalyzed Joe Wright SNOTEL station data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Taia Storrs",
+    "section": "",
+    "text": "Water Resources | Sustainability | GIS\nGraduate student passionate about sustainable water solutions for the Western United States."
   },
   {
     "objectID": "projects.html",
@@ -49,18 +49,11 @@
     "text": "Colorado State University | Spring 2025\nCollaborated with stakeholder CitSci to design systems for CSU’s upcoming Center for Participatory Science:\n\nWrote a background paper highlighting barriers and strategies for inclusive research\nBuilt a participant database using Airtable and Fillout\nImplemented communication systems via Teams, Outlook/Gmail, and Calendly\n\n\n\n\nSpring 2024\nConducted statistical analyses in RStudio to quantify correlations between sea ice extent and global sea level rise:\n\nMerged and cleaned satellite-derived datasets\nRan correlation tests (Pearson’s r = -0.48) and visualized spatial/temporal trends\nPresented findings demonstrating a significant negative correlation between polar ice melt and global sea level rise\n\n\n\n\nFall 2023\n\nApplied ArcGIS to integrate hydrology and transportation datasets\nCreated a map of Longs Peak’s hydrography and road networks to demonstrate spatial data visualization skills"
   },
   {
-    "objectID": "projects.html#field-experience",
-    "href": "projects.html#field-experience",
-    "title": "Projects",
-    "section": "Field Experience",
-    "text": "Field Experience\n\nNatural Resource Ecology & Measurement\nColorado State University – Mountain Campus | Summer 2024\n\nIdentified 120 different plant and animal species of Northern Colorado Region\nAssessed mountain shrub, ponderosa pine/aspen, lodgepole pine, spruce-fir, and alpine ecosystems\nCollected recreation, watershed, range, wildlife, and forestry data using quadrants, line-intercepts, transects, and point-centered quarters\nGenerated written reports for each ecosystem assessed\n\n\n\nLimnology Field Work\nColorado State University | Fall 2024\n\nCollected depth profiles: temperature, DO content, pH, water chemistry, and algae/zooplankton sampling\nUtilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling\n\n\n\nSnow Hydrology Field Work\nColorado State University | Fall 2024\n\nCollected snowpack data at Cameron Pass via core samples\nAnalyzed Joe Wright SNOTEL station data"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Taia Storrs",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
     "section": "",
-    "text": "Water Resources | Sustainability | GIS\nGraduate student passionate about sustainable water solutions for the Western United States."
+    "text": "Longs Peak Hydrography and Road Networks\n\n\nGIS analysis integrating hydrology and transportation datasets.\n\n\n\nBurned Area\n\n\nAssessing and collecting data from a burned area at CSU’s Mountain Campus\n\n\n\nRoberts Tunnel Outlet\n\n\nAssessing Roberts Tunnel Outlet\n\n\n\nStreamflow\n\n\nCollecting watershed data and measurements using a headrod at the Mountain Campus\n\n\n\nData Collection\n\n\nCollecting stream data in the Lower Elkhorn River\n\n\n\nMeasurements\n\n\nUsing a FlowTracker to measure velocity at an upstream site in the Lower Elkhorn River\n\nMore photos and projects coming soon!"
   },
   {
     "objectID": "about.html",

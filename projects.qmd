@@ -37,31 +37,4 @@ rise
 - Created a map of Longs Peak's hydrography and road 
 networks to demonstrate spatial data visualization skills
 
----
 
-## Field Experience
-
-### Natural Resource Ecology & Measurement
-**Colorado State University – Mountain Campus | Summer 
-2024**
-
-- Identified 120 different plant and animal species of 
-Northern Colorado Region
-- Assessed mountain  shrub, ponderosa pine/aspen, lodgepole pine, 
-spruce-fir, and alpine ecosystems
-- Collected recreation, watershed, range, wildlife, and forestry data using 
-quadrants, line-intercepts, transects, and point-centered quarters
-- Generated written reports for each ecosystem assessed
-
-### Limnology Field Work
-**Colorado State University | Fall 2024**
-
-- Collected depth profiles: temperature, DO content, pH, water chemistry, 
-and algae/zooplankton sampling
-- Utilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling
-
-### Snow Hydrology Field Work
-**Colorado State University | Fall 2024**
-
-- Collected snowpack data at Cameron Pass via core samples
-- Analyzed Joe Wright SNOTEL station data
