@@ -8,16 +8,24 @@ GIS analysis integrating hydrology and transportation datasets.
 
 ![Burned Area](trees.JPG)
 
-Assessed and collected data from a burned area at CSU's Mountain Campus
+Assessing and collecting data from a burned area at CSU's Mountain Campus
 
 ![Roberts Tunnel Outlet](water.JPG)
 
-Assessed Roberts Tunnel Outlet
+Assessing Roberts Tunnel Outlet
 
 ![Streamflow](field.JPG)
 
-Collected watershed data and measurements using a headrod  at the Mountain 
+Collecting watershed data and measurements using a headrod at the Mountain 
 Campus
+
+![Data Collection](data-elkhorn.JPG)
+
+Collecting stream data in the Lower Elkhorn River
+
+![Measurements](flowtracker-elkhorn.JPG)
+
+Using a FlowTracker to measure velocity at an upstream site in the Lower Elkhorn River
 
 ---
 

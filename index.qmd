@@ -19,9 +19,7 @@ page-layout: full
 Graduate student passionate about sustainable water solutions for the Western 
 United States.
 
-[About Me](about.qmd){.btn .btn-primary .btn-lg}
-[Projects](projects.qmd){.btn .btn-outline-primary .btn-lg}
-[Gallery](gallery.qmd){.btn .btn-outline-primary .btn-lg}
+
 
 :::
 

@@ -12,6 +12,8 @@ website:
         text: About
       - href: projects.qmd
         text: Projects and Experience
+      - href: coding.qmd
+        text: Coding  
       - href: gallery.qmd
         text: Gallery  
 
