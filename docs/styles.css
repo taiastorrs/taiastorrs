@@ -1,5 +1,4 @@
 /* css styles */
-/* css styles */
 .navbar {
   background-color: #A9B689 !important;
 }
@@ -7,12 +6,10 @@
   background-color: #A9B689 !important;
   border-color: #A9B689 !important;
 }
-
 .btn-outline-primary {
   color: #A9B689 !important;
   border-color: #A9B689 !important;
 }
-
 .btn-outline-primary:hover {
   background-color: #A9B689 !important;
   color: white !important;
@@ -22,4 +19,10 @@ h1, h2 {
 }
 a {
   color: #A9B689 !important;
+}
+.navbar-nav .nav-link {
+  color: white !important;
+}
+.navbar-brand {
+  color: white !important;
 }
