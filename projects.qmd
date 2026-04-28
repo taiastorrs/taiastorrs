@@ -26,8 +26,8 @@ to EPA data from Dillon Reservoir
 - Results indicated eutrophic conditions based on elevated nitrogen levels and 
 Secchi depth measurements
 
-![View Final Report](ess474_final-report.html)
-![View Final Report with Code](ess474_final-report-code.html)
+![View Final Report](ess474_final-report.html){.btn .btn-outline-primary target="_blank"}
+![View Final Report with Code](ess474_final-report-code.html){.btn .btn-outline-primary target="_blank"}
 
 ### Center for Participatory Science Development
 **Colorado State University | Spring 2025**
@@ -55,7 +55,7 @@ visualized spatial/temporal trends
 correlation between polar ice melt and global sea level 
 rise
 
-![Statistcal Comparison](ess330_final-project.pdf)
+![Statistcal Comparison](ess330_final-project.pdf){.btn .btn-outline-primary target="_blank"}
 
 ### Longs Peak Hydrography and Road Map
 **Fall 2023**
