@@ -2,8 +2,6 @@
 title: "Coding and Data Science"
 ---
 
----
-
 ## Water Resources Data Science
 
 Assignments and analyses completed for ESS 523c, Spring 2026.
@@ -19,6 +17,16 @@ Assignments and analyses completed for ESS 523c, Spring 2026.
 
 ### Palo Iowa Flood Analysis
 [View Assignment](https://taiastorrs.github.io/csu-523c/lab-04.html){.btn .btn-outline-primary target="_blank"}
+
+---
+
+## Remote Sensing
+
+### McMurray Natural Area Wetland Classification
+Random Forest land cover classification using Sentinel-2 imagery to assess 
+wetland restoration at McMurray Natural Area before (2016) and after (2021).
+
+[View Project](classification-model.html){.btn .btn-outline-primary target="_blank"}
 
 ---
 

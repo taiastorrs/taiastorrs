@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Coding and Data Science",
+    "section": "",
+    "text": "Assignments and analyses completed for ESS 523c, Spring 2026.\n\n\nView Assignment\n\n\n\nView Assignment\n\n\n\nView Assignment\n\n\n\nView Assignment"
+  },
+  {
     "objectID": "coding.html#water-resources-data-science",
     "href": "coding.html#water-resources-data-science",
     "title": "Coding and Data Science",
-    "section": "Water Resources Data Science",
-    "text": "Water Resources Data Science\nAssignments and analyses completed for ESS 523c, Spring 2026.\n\nStreamflow Across the Colorado River Basin\nView Assignment\n\n\nMeasuring Distance to National Borders\nView Assignment\n\n\nMAUP in Practice\nView Assignment\n\n\nPalo Iowa Flood Analysis\nView Assignment"
+    "section": "",
+    "text": "Assignments and analyses completed for ESS 523c, Spring 2026.\n\n\nView Assignment\n\n\n\nView Assignment\n\n\n\nView Assignment\n\n\n\nView Assignment"
+  },
+  {
+    "objectID": "coding.html#remote-sensing",
+    "href": "coding.html#remote-sensing",
+    "title": "Coding and Data Science",
+    "section": "Remote Sensing",
+    "text": "Remote Sensing\n\nMcMurray Natural Area Wetland Classification\nRandom Forest land cover classification using Sentinel-2 imagery to assess wetland restoration at McMurray Natural Area before (2016) and after (2021).\nView Project"
   },
   {
     "objectID": "coding.html#coding-skills",
