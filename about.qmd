@@ -21,7 +21,7 @@ about:
 I recently graduated from Colorado State University with 
 a Bachelor of Science in Ecosystem Science and 
 Sustainability, completing my degree in three years with 
-a minor in Watershed Science. This fall, I began pursuing 
+a minor in Watershed Science. This past fall, I began pursuing 
 a Professional Science Master's in Water Resources 
 through CSU's Accelerated Master's Program in ESS.
 
@@ -42,7 +42,7 @@ settings.
 
 ## Skills & Proficiencies
 
-- **Technical Tools:** ArcGIS, R, Microsoft Office Suite
+- **Technical Tools:** R, ArcGIS, Microsoft Office Suite
 - **Data Analysis:** Field data collection, dataset 
 cleaning, and statistical analysis in R and Excel
 - **Communication:** Stakeholder communication and 
@@ -54,7 +54,7 @@ report delivery
 
 *Professional Science Master's in Ecosystem Science and 
 Sustainability*  
-Concentration in Water Resources | Expected Spring 2026
+Concentration in Water Resources | Expected Fall 2026
 
 *Bachelor of Science in Ecosystem Science and 
 Sustainability*  
