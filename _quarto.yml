@@ -16,7 +16,7 @@ website:
       - href: coding.qmd
         text: Coding  
       - href: projects.qmd
-        text: Projects and Experience
+        text: Projects
       - href: gallery.qmd
         text: Gallery  
 
