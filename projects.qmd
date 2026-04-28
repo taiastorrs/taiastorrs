@@ -6,7 +6,6 @@ title: "Projects"
 
 ### Effect of Slope on Braided River Complexity in a Flume Experiment
 **Colorado State University – Geomorphology Lab | Spring 2026**
-*With Emily Hofer and Alyssa Young*
 
 - Tested whether increasing flume gradient would increase braided river channel complexity
 - Conducted three 10-minute trials at varying slopes, counting braids across upper, middle, and lower transects
@@ -14,6 +13,21 @@ title: "Projects"
 - Results were inconclusive — braid count did not increase consistently with slope, suggesting channel form is controlled by multiple interacting factors
 
 ![Flume Lab Poster](geol454_flume-lab-poster.png){width=100%}
+
+### Horsetooth Reservoir Limnology Lab Report
+**Colorado State University – ESS 474 | Fall 2024**
+
+- Collected and analyzed depth profiles of temperature, dissolved oxygen, pH, 
+conductivity, and chlorophyll-a at Horsetooth Reservoir
+- Measured total nitrogen, dissolved organic carbon, and Secchi depth across 
+epilimnion and hypolimnion
+- Visualized water quality parameters in R using ggplot2 and compared findings 
+to EPA data from Dillon Reservoir
+- Results indicated eutrophic conditions based on elevated nitrogen levels and 
+Secchi depth measurements
+
+![View Final Report](ess474_final-report.html)
+![View Final Report with Code](ess474_final-report-code.html)
 
 ### Center for Participatory Science Development
 **Colorado State University | Spring 2025**
@@ -40,6 +54,8 @@ visualized spatial/temporal trends
 - Presented findings demonstrating a significant negative 
 correlation between polar ice melt and global sea level 
 rise
+
+![Statistcal Comparison](ess330_final-project.pdf)
 
 ### Longs Peak Hydrography and Road Map
 **Fall 2023**
