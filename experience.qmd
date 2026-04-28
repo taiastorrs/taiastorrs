@@ -24,14 +24,14 @@ quadrants, line-intercepts, transects, and point-centered quarters
 - Generated written reports for each ecosystem assessed
 
 ### Limnology Field Work
-**Colorado State University | Fall 2024**
+**Colorado State University - Horsetooth Reservoir | Fall 2024**
 
 - Collected depth profiles: temperature, DO content, pH, water chemistry, 
 and algae/zooplankton sampling
 - Utilized Van Dorn bottles, Sonde, and macroinvertebrate nets for sampling
 
 ### Snow Hydrology Field Work
-**Colorado State University | Fall 2024**
+**Colorado State University - Cameron Pass | Fall 2024**
 
 - Collected snowpack data at Cameron Pass via core samples
 - Analyzed Joe Wright SNOTEL station data
