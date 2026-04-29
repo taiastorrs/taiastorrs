@@ -5,7 +5,7 @@ title: "Projects"
 ## Sustainability and Water Science Projects
 
 ### Effect of Slope on Braided River Complexity in a Flume Experiment
-**Colorado State University – Geomorphology Lab | Spring 2026**
+**Colorado State University – Geomorphology | Spring 2026**
 
 - Tested whether increasing flume gradient would increase braided river channel complexity
 - Conducted three 10-minute trials at varying slopes, counting braids across upper, middle, and lower transects
@@ -15,7 +15,7 @@ title: "Projects"
 ![Flume Lab Poster](geol454_flume-lab-poster.png){width=100%}
 
 ### Horsetooth Reservoir Limnology Lab Report
-**Colorado State University – ESS 474 | Fall 2024**
+**Colorado State University – Limnology | Fall 2024**
 
 - Collected and analyzed depth profiles of temperature, dissolved oxygen, pH, 
 conductivity, and chlorophyll-a at Horsetooth Reservoir
@@ -30,7 +30,7 @@ Secchi depth measurements
 [View Final Report with Code](ess474_final-report-code.html){width=100%}{.btn .btn-primary}
 
 ### Center for Participatory Science Development
-**Colorado State University | Spring 2025**
+**Colorado State University – Practicing Sustainability | Spring 2025**
 
 Collaborated with stakeholder CitSci to design systems 
 for CSU's upcoming Center for Participatory Science:
@@ -42,7 +42,7 @@ strategies for inclusive research
 Outlook/Gmail, and Calendly
 
 ### Statistical Comparison of Sea Ice and Global Sea Level
-**Spring 2024**
+**Colorado State University – Quantitative Reasoning for Ecosystem Science | Spring 2024**
 
 Conducted statistical analyses in RStudio to quantify 
 correlations between sea ice extent and global sea level 
@@ -58,7 +58,7 @@ rise
 [Statistcal Comparison](ess330_final-project.pdf){width=100%}{.btn .btn-primary}
 
 ### Longs Peak Hydrography and Road Map
-**Fall 2023**
+**Colorado State University – Introduction to Geospatial Science | Fall 2023**
 
 - Applied ArcGIS to integrate hydrology and transportation datasets
 - Created a map of Longs Peak's hydrography and road 

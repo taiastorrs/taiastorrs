@@ -4,7 +4,7 @@ title: "Coding and Data Science"
 
 ## Water Resources Data Science
 
-Assignments and analyses completed for ESS 523c, Spring 2026.
+Assignments and analyses completed for Environmental Data Science Applications: Water Resources – Spring 2026.
 
 ### Streamflow Across the Colorado River Basin
 [View Assignment](https://taiastorrs.github.io/csu-523c/lab-01.html){.btn .btn-primary}
