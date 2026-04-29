@@ -55,7 +55,7 @@ visualized spatial/temporal trends
 correlation between polar ice melt and global sea level 
 rise
 
-[Statistcal Comparison](ess330_final-project.pdf){width=100%}
+[Statistcal Comparison](ess330_final-project.pdf){.btn .btn-primary}
 
 ### Longs Peak Hydrography and Road Map
 **Colorado State University – Introduction to Geospatial Science | Fall 2023**
