@@ -133,10 +133,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#water-resources-data-science" id="toc-water-resources-data-science" class="nav-link active" data-scroll-target="#water-resources-data-science">Water Resources Data Science</a>
   <ul class="collapse">
-  <li><a href="#streamflow-across-the-colorado-river-basin" id="toc-streamflow-across-the-colorado-river-basin" class="nav-link" data-scroll-target="#streamflow-across-the-colorado-river-basin">Streamflow Across the Colorado River Basin</a></li>
-  <li><a href="#measuring-distance-to-national-borders" id="toc-measuring-distance-to-national-borders" class="nav-link" data-scroll-target="#measuring-distance-to-national-borders">Measuring Distance to National Borders</a></li>
-  <li><a href="#maup-in-practice" id="toc-maup-in-practice" class="nav-link" data-scroll-target="#maup-in-practice">MAUP in Practice</a></li>
-  <li><a href="#palo-iowa-flood-analysis" id="toc-palo-iowa-flood-analysis" class="nav-link" data-scroll-target="#palo-iowa-flood-analysis">Palo Iowa Flood Analysis</a></li>
+  <li><a href="#lab-1-streamflow-across-the-colorado-river-basin" id="toc-lab-1-streamflow-across-the-colorado-river-basin" class="nav-link" data-scroll-target="#lab-1-streamflow-across-the-colorado-river-basin">Lab 1 — Streamflow Across the Colorado River Basin</a></li>
+  <li><a href="#lab-2-spatial-analysis-and-the-100-mile-border-zone" id="toc-lab-2-spatial-analysis-and-the-100-mile-border-zone" class="nav-link" data-scroll-target="#lab-2-spatial-analysis-and-the-100-mile-border-zone">Lab 2 — Spatial Analysis and the 100-Mile Border Zone</a></li>
+  <li><a href="#lab-3-national-dam-inventory-and-the-maup" id="toc-lab-3-national-dam-inventory-and-the-maup" class="nav-link" data-scroll-target="#lab-3-national-dam-inventory-and-the-maup">Lab 3 — National Dam Inventory and the MAUP</a></li>
+  <li><a href="#lab-4-palo-iowa-flood-analysis-with-landsat-imagery" id="toc-lab-4-palo-iowa-flood-analysis-with-landsat-imagery" class="nav-link" data-scroll-target="#lab-4-palo-iowa-flood-analysis-with-landsat-imagery">Lab 4 — Palo Iowa Flood Analysis with Landsat Imagery</a></li>
+  <li><a href="#lab-5-machine-learning-for-streamflow-prediction" id="toc-lab-5-machine-learning-for-streamflow-prediction" class="nav-link" data-scroll-target="#lab-5-machine-learning-for-streamflow-prediction">Lab 5 — Machine Learning for Streamflow Prediction</a></li>
+  <li><a href="#lab-6-time-series-forecasting-on-the-cache-la-poudre-river" id="toc-lab-6-time-series-forecasting-on-the-cache-la-poudre-river" class="nav-link" data-scroll-target="#lab-6-time-series-forecasting-on-the-cache-la-poudre-river">Lab 6 — Time Series Forecasting on the Cache la Poudre River</a></li>
   </ul></li>
   <li><a href="#remote-sensing" id="toc-remote-sensing" class="nav-link" data-scroll-target="#remote-sensing">Remote Sensing</a>
   <ul class="collapse">
@@ -171,21 +173,40 @@ ul.task-list li input[type="checkbox"] {
 <section id="water-resources-data-science" class="level2">
 <h2 class="anchored" data-anchor-id="water-resources-data-science">Water Resources Data Science</h2>
 <p>Assignments and analyses completed for Environmental Data Science Applications: Water Resources – Spring 2026.</p>
-<section id="streamflow-across-the-colorado-river-basin" class="level3">
-<h3 class="anchored" data-anchor-id="streamflow-across-the-colorado-river-basin">Streamflow Across the Colorado River Basin</h3>
+<section id="lab-1-streamflow-across-the-colorado-river-basin" class="level3">
+<h3 class="anchored" data-anchor-id="lab-1-streamflow-across-the-colorado-river-basin">Lab 1 — Streamflow Across the Colorado River Basin</h3>
+<p>In this lab I built a complete analytical pipeline for the Colorado River Basin using 44 years of daily streamflow data pulled directly from the USGS National Water Information System API. I learned how to retrieve and join large hydrological datasets, normalize discharge by drainage area to make fair cross-basin comparisons, and detect low-flow threshold exceedances using 7-day rolling means. I also conducted basin-wide trend analysis using standardized anomalies, tracked the flow-weighted geographic center of drought over time, and built a predictive linear model estimating Lees Ferry discharge from upstream conditions at Glenwood Springs.</p>
 <p><a href="https://taiastorrs.github.io/csu-523c/lab-01.html" class="btn btn-primary">View Assignment</a></p>
+<hr>
 </section>
-<section id="measuring-distance-to-national-borders" class="level3">
-<h3 class="anchored" data-anchor-id="measuring-distance-to-national-borders">Measuring Distance to National Borders</h3>
+<section id="lab-2-spatial-analysis-and-the-100-mile-border-zone" class="level3">
+<h3 class="anchored" data-anchor-id="lab-2-spatial-analysis-and-the-100-mile-border-zone">Lab 2 — Spatial Analysis and the 100-Mile Border Zone</h3>
+<p>In this lab I developed spatial analysis skills by building datasets from multiple sources, transforming coordinate reference systems, and computing distances from US cities to national and state borders using the sf package in R. I learned the critical distinction between st_union and st_combine for preserving or dissolving internal boundaries, and why geometry must be cast to MULTILINESTRING before computing distances. I applied these skills to a real-world policy question — quantifying what percentage of the US population lives within the 100-mile federal border enforcement zone — and built an interactive Leaflet map with toggleable layers, popups, and a color gradient legend.</p>
 <p><a href="https://taiastorrs.github.io/csu-523c/lab-02.html" class="btn btn-primary">View Assignment</a></p>
+<hr>
 </section>
-<section id="maup-in-practice" class="level3">
-<h3 class="anchored" data-anchor-id="maup-in-practice">MAUP in Practice</h3>
+<section id="lab-3-national-dam-inventory-and-the-maup" class="level3">
+<h3 class="anchored" data-anchor-id="lab-3-national-dam-inventory-and-the-maup">Lab 3 — National Dam Inventory and the MAUP</h3>
+<p>In this lab I explored the Modifiable Areal Unit Problem by aggregating the National Dam Inventory across five tessellated surfaces: counties, Voronoi diagrams, Delaunay triangulations, square grids, and hexagonal grids. I wrote reusable functions for plotting and summarizing tessellations, performed point-in-polygon counts for different dam purposes, and conducted local spatial autocorrelation analysis using LISA quadrant mapping. I learned how the choice of spatial unit fundamentally changes the patterns we observe and that neighboring tiles show strong spatial clustering in dam count and construction era, reflecting regional infrastructure investment history.</p>
 <p><a href="https://taiastorrs.github.io/csu-523c/lab-03.html" class="btn btn-primary">View Assignment</a></p>
+<hr>
 </section>
-<section id="palo-iowa-flood-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="palo-iowa-flood-analysis">Palo Iowa Flood Analysis</h3>
+<section id="lab-4-palo-iowa-flood-analysis-with-landsat-imagery" class="level3">
+<h3 class="anchored" data-anchor-id="lab-4-palo-iowa-flood-analysis-with-landsat-imagery">Lab 4 — Palo Iowa Flood Analysis with Landsat Imagery</h3>
+<p>In this lab I conducted a complete flood extent analysis using Landsat 8 multispectral imagery of the 2016 Cedar River flood in Palo, Iowa. I accessed satellite imagery through the Microsoft Planetary Computer STAC API, computed five spectral water indices (NDVI, NDWI, MNDWI, WRI, SWI), and applied binary thresholding to delineate flooded areas. I also classified land cover using k-means unsupervised clustering and compared all six methods by summing them into a flood certainty raster. This lab showed me how remote sensing and raster algebra can rapidly characterize flood extents even without ground truth data.</p>
 <p><a href="https://taiastorrs.github.io/csu-523c/lab-04.html" class="btn btn-primary">View Assignment</a></p>
+<hr>
+</section>
+<section id="lab-5-machine-learning-for-streamflow-prediction" class="level3">
+<h3 class="anchored" data-anchor-id="lab-5-machine-learning-for-streamflow-prediction">Lab 5 — Machine Learning for Streamflow Prediction</h3>
+<p>In this lab I built a complete machine learning pipeline using the tidymodels framework to predict mean streamflow across 500+ CAMELS basins. I performed exploratory data analysis, engineered predictors using a multi-step recipe, and compared four models — linear regression, random forest, XGBoost, and a bagged neural network — using both random and spatial cross-validation. I learned that spatial CV provides a more honest estimate of generalization because it prevents data leakage from nearby basins, and that precipitation and aridity dominate variable importance. The final tuned random forest achieved an R² of 0.908 on the held-out test set.</p>
+<p><a href="https://taiastorrs.github.io/csu-523c/lab-05.html" class="btn btn-primary">View Assignment</a></p>
+<hr>
+</section>
+<section id="lab-6-time-series-forecasting-on-the-cache-la-poudre-river" class="level3">
+<h3 class="anchored" data-anchor-id="lab-6-time-series-forecasting-on-the-cache-la-poudre-river">Lab 6 — Time Series Forecasting on the Cache la Poudre River</h3>
+<p>In this lab I built an end-to-end time series forecasting pipeline for monthly streamflow on the Cache la Poudre River using modeltime. I downloaded historic streamflow from USGS and climate data from GridMET, decomposed the series using STL to identify trend, seasonality, and anomalies, and tested for stationarity. I fit six models including ARIMA, Prophet, ETS, and EARTH with MACA climate projections as future predictors, then generated a 10-year forecast through 2033. I learned that log-transforming skewed streamflow data improves model stability and that physically grounded models outperform those relying heavily on extrapolated climate signals alone.</p>
+<p><a href="https://taiastorrs.github.io/csu-523c/lab-06.html" class="btn btn-primary">View Assignment</a></p>
 <hr>
 </section>
 </section>
@@ -202,10 +223,11 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="coding-skills">Coding Skills</h2>
 <ul>
 <li><strong>Programming Languages:</strong> R</li>
-<li><strong>Data Analysis:</strong> tidyverse, statistical modeling</li>
-<li><strong>Data Visualization:</strong> ggplot2</li>
-<li><strong>Reproducible Research:</strong> Quarto</li>
-<li><strong>Geospatial Analysis:</strong> ArcGIS</li>
+<li><strong>Data Analysis:</strong> tidyverse, tidymodels, statistical modeling, machine learning</li>
+<li><strong>Data Visualization:</strong> ggplot2, plotly, leaflet</li>
+<li><strong>Reproducible Research:</strong> Quarto, R Markdown</li>
+<li><strong>Geospatial Analysis:</strong> sf, terra, ArcGIS</li>
+<li><strong>Time Series Analysis:</strong> modeltime, tsibble, feasts</li>
 </ul>
 
 
